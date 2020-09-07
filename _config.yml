@@ -1,18 +1,18 @@
 title:              "찐블로그"
 tagline:            "광고회사에서 살아남기, 아니 광고회사 살아남기"
 email:              "samsamno1@hotmail.com"
-description:        "급/ 다변하는 광고회사에서 니들은 어떻게 살아남을래? 광고회사에서 살아남아가는 광고인들의 생존이야기."
+description:        "급변하는 광고회사에서 니들은 어떻게 살아남을래? 광고인들의 생존이야기."
 author:             "김용진"
 baseurl:            "/"
 url:                "https://yongzzin.com"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/200815_blog_main_thum_1200X628.jpg"
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+twitter_username:
+instagram_username:
+facebook_username:
+linkedin_username:
 
 # Build settings
 markdown:           kramdown
