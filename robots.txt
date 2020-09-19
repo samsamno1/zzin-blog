@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yongzzin.com/sitemap.xml
+
+DaumWebMasterTool:69ac33576289fd078fd78cec1a42f8aeb3c8f2bd77d6b046bcfef3f744408a48:SkzY+iibjkK3lYUDIfzDEw==
