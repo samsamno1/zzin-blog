@@ -89,6 +89,20 @@
         </script>
        {% endif %}
 
+       <script type="application/ld+json">
+{
+ "@context": "http://schema.org",
+ "@type": "Person",
+ "name": "{{ site.title}}",
+ "url": "{{ site.url }}",
+ "sameAs": [
+   "https://www.facebook.com/myfacebook",
+   "http://blog.naver.com/myblog",
+   "http://storefarm.naver.com/mystore"
+ ]
+}
+  </script>
+
 
   <!-- Favicon Tag -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.github.url }}/img/icon/apple-icon-57x57.png">
