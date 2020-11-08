@@ -3,8 +3,8 @@ layout: post
 permalink: /consulting/
 title: 디지털로 재편되는 광고시장. 광고회사가 빠를까 컨설팅 회사가 빠를까?
 date: 2020-11-08 21:30:00 +09:00
-feature: 'img/posts/04/201007-sub-1200X628.gif'
-background: 'img/posts/04/201007-main-1200X720.gif'
+feature: 'img/posts/05/201108sub-1200X628.gif'
+background: 'img/posts/05/201108-main-1200X720.gif'
 categories:
   - mythink
 tags:
